@@ -3,7 +3,7 @@ gunicorn
 flask
 numpy
 
-cpu/torch-1.0.0-cp36-cp36m-win_amd64.whl
+https://download.pytorch.org/whl/cpu/torch-1.0.0-cp36-cp36m-win_amd64.whl
 voila
 ipywidgets
 

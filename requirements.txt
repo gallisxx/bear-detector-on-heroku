@@ -1,10 +1,13 @@
-python==3.6
+
 gunicorn
 flask
 numpy
 # that torch version would work fine on MacOS
 
-torch
+https://download.pytorch.org/whl/cpu/torch-1.6.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torchvision-0.7.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
+voila
+ipywidgets
 
 # we have to use this version for Heroku
 torchvision==0.2.2

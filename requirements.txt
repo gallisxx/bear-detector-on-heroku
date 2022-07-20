@@ -3,7 +3,7 @@ gunicorn
 flask
 numpy
 
-torch==1.0.0
+cpu/torch-1.0.0-cp36-cp36m-win_amd64.whl
 voila
 ipywidgets
 

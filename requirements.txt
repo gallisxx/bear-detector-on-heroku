@@ -1,9 +1,10 @@
+python==3.6
 gunicorn
 flask
 numpy
 # that torch version would work fine on MacOS
 
-torch==1.0.0
+torch
 
 # we have to use this version for Heroku
 torchvision==0.2.2

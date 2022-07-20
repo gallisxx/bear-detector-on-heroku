@@ -3,8 +3,8 @@ flask
 numpy
 # that torch version would work fine on MacOS
 
-torch==1.1.0
-#
+torch==1.12.0
+
 # we have to use this version for Heroku
 torchvision==0.2.2
 fastai==1.0.52
